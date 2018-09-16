@@ -22,7 +22,7 @@ CODE SEGMENT
     
     START:
     
-    ; Move the address of DATA segment to DS register.
+    ; Move the address of DATA segment to the DS register.
     MOV AX  ,   DATA
     MOV DS  ,   AX
     
