@@ -1,5 +1,5 @@
 ; OBJECTIVE :   To evaluate the expression: X+Y+24H-Z,
-;               X, Y and Z are double word variables.
+;               X, Y and Z are double word variables. 
 ; APPROACH  :   Perform word-by-word binary operations.
 
 ; Data segment begins.
