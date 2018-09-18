@@ -10,7 +10,7 @@ DATA SEGMENT
     sum      DW  ?
        
 ; Data segment ends.
-DATA ENDS
+DATA ENDS 
 
 ; Code segment begins.
 CODE SEGMENT
