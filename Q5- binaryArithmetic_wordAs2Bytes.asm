@@ -1,3 +1,4 @@
+; OBJECTIVE :   To evaluate the expression: X+Y+24H-Z, where X, Y and Z are word variables.
 ; APPROACH  :   Use binary addition and subtraction instructions,
 ;               extract the data as bytes,
 ;               perform operations byte-by-byte.
